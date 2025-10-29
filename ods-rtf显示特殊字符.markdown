@@ -10,6 +10,7 @@ date: "2019-07-04 23:04"
 
 ![捕获](/assets/捕获.PNG)
 ```
+https://sas-user2025.ywstat.jp/download.html?n=78&key=paper
 data unicode;
   input @1 code $1-70;
   datalines;
